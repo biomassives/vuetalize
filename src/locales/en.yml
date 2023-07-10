@@ -1,22 +1,30 @@
 hero:
-  title: Start your project with Vuetify 3 faster than ever
+  title: Eco Ops App
   subtitle: >-
-    This template is opinionated and comes with a lot of features out of the
-    box. It is meant to be a starting point for your project.
+      Biodiversity credits
+      are a method of
+      compensating volunteers
+      and organized groups for
+      ecosytem services and 
+      improving
+      resiliency
+
   getStarted: Get Started
-  github: Github
-  dashboard: Dashboard
+  github: Rewards
+  checkin: Checkin
+  dashboard: Checkins
   features:
-    title: Features
+    title: Climate resiliency is ecosystem resiliency 
 dashboard:
   sidebar:
     dashboard-overview: Dashboard overview
-    rentals: Rentals
-    inventory: Inventory
-    customers: Customers
-    reports: Reports
-    settings: Settings
-    help: Help
+    checkins: Checkins0
+    rentals: Checkins
+    inventory: Mapping
+    customers: Advocacy
+    reports: Certify
+    settings: Credit Marketplace
+    help: Reports
     logout: Logout
   main:
     dashboard-overview: Overview

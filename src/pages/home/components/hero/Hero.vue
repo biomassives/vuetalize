@@ -48,7 +48,7 @@
     font-weight: 800;
     line-height: 1.2;
     font-size: 2.8rem;
-    background: linear-gradient(-312deg, #7743db 2%, #ef476f 100%);
+    background: linear-gradient(-312deg, #06926f 2%, #d69509 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -58,7 +58,7 @@ html[dir='rtl'] .tagline {
     line-height: 1.6;
 }
 .v-theme--light .tagline {
-    color: #3b3486;
+    color: #1a8511;
     background: inherit;
     background-clip: unset;
     -webkit-background-clip: unset;
@@ -66,7 +66,7 @@ html[dir='rtl'] .tagline {
 }
 
 .v-theme--light .vuetify3 {
-    background: linear-gradient(-312deg, #7743db 2%, #b598eb 100%);
+    background: linear-gradient(-312deg, #559620 2%, #bb9c13 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -91,21 +91,21 @@ html[dir='rtl'] .tagline {
     width: 400px;
     height: 800px;
     z-index: 0;
-    background-image: linear-gradient(135deg, #7743db -50%, #181833 30%);
+    background-image: linear-gradient(135deg, #07e250 -50%, #181833 30%);
 }
 
 .v-theme--light .glow {
-    background-image: linear-gradient(135deg, #7743db -50%, #efefef 30%);
+    background-image: linear-gradient(135deg, #13d30d -50%, #efefef 30%);
 }
 
 .glow-right {
     right: 0;
     left: unset;
     z-index: 0;
-    background-image: linear-gradient(-135deg, #7743db -50%, #181833 30%);
+    background-image: linear-gradient(-135deg, #1c960c -50%, #181833 30%);
 }
 
 .v-theme--light .glow-right {
-    background-image: linear-gradient(-135deg, #7743db -50%, #efefef 30%);
+    background-image: linear-gradient(-135deg, #298612 -50%, #efefef 30%);
 }
 </style>

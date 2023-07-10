@@ -3,43 +3,42 @@ import FeatureCard from './FeatureCard.vue'
 
 const features = [
     {
-        title: 'Vite',
-
+        title: 'Checkins',
         icon: 'i-iconoir-flash',
         description:
-            ' Vite is a new breed of frontend build tool that significantly improves the frontend development experience.',
+            ' Track activities that generate biodiversity credits & NFT tokens.',
     },
     {
-        title: 'Vuetify',
+        title: 'Verification',
         icon: 'i-iconoir-vue-js',
         description:
-            'Vuetify is a semantic component framework for Vue.js. It aims to provide clean, semantic and reusable components that make building your application a breeze.',
+            'Community verifiers are trained to be experts in techniques most appropriate for their regionalcontext.',
     },
     {
-        title: 'Vue Router',
+        title: 'Techniques',
         icon: 'i-iconoir-path-arrow',
         description:
-            'Vue Router is the official router for Vue.js. It deeply integrates with Vue.js core to make building Single Page Applications with Vue.js a breeze.',
+            'Biodiversity credit-worthy activities empower those effected by pollution & climate to restore damaged environment',
     },
     {
-        title: 'Auto import',
+        title: 'Transparency',
         icon: 'i-iconoir-import',
-        description: 'Auto import components, directives, pages, and more.',
+        description: 'Participants provide checkin photos & recordings to show details about steps taken toward achieving project milestones',
     },
     {
-        title: 'Vue Use',
+        title: 'Verification Training',
         icon: 'i-iconoir-puzzle',
         description: 'Vue Use is a collection of useful composition functions for Vue.js.',
     },
     {
-        title: 'Vue Use Head',
+        title: 'Circular Ecomomy Partners',
         icon: 'i-iconoir-code',
         description:
             'Vue Use Head is a composition function for Vue.js that allows you to easily manage the document head.',
     },
 
     {
-        title: 'Vue i18n',
+        title: 'Selling Biodiversity Credits',
         icon: 'i-iconoir-translate',
         description:
             'Vue i18n is internationalization plugin for Vue.js. It provides services for translating Vue component templates, directives, and parts of HTML.',

@@ -3,11 +3,11 @@ import Features from './components/Features/index.vue'
 import Hero from './components/hero/Hero.vue'
 
 useHead({
-    title: 'Home',
+    title: 'Eco Ops App',
     meta: [
         {
             name: 'description',
-            content: 'This is the home page',
+            content: 'Biodiversity Credit System',
         },
     ],
 })

@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 <template>
     <div>
-        <h1>Dashboard settings (TODO)</h1>
+        <h1>Eco Ops Checkins </h1>
     </div>
 </template>
 

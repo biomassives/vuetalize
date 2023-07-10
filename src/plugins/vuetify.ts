@@ -13,7 +13,7 @@ import '@mdi/font/css/materialdesignicons.css'
 const light: ThemeDefinition = {
     dark: false,
     colors: {
-        background: '#efefef',
+        background: '#eee',
         surface: '#fff',
         primary: '#7743DB',
         'primary-darken-1': '#3B3486',

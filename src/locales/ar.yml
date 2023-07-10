@@ -11,6 +11,7 @@ hero:
 dashboard:
   sidebar:
     dashboard-overview: نظرة عامة على لوحة القيادة
+    checkins: Checkins0
     rentals: الإيجارات
     inventory: المخزون
     customers: العملاء
